@@ -25,18 +25,18 @@ val:Ontology  rdf:type    owl:Ontology;
         dcat:keyword      "ALL";
         dcat:theme        "constraint"@en .
 
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/NC-AP-Con-PrefixDeclaration-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/NC-AP-Con-Complex-Common-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/AssessedElement-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/AvailabilitySchedule-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/Contingency-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/EquipmentReliability-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/ImpactAssessmentMatrix-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/PowerSchedule-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/RemedialAction-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/RemedialActionSchedule-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/SecurityAnalysisResult-AP-Con-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/StateInstructionSchedule-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/NC-AP-Con-PrefixDeclaration-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/NC-AP-Con-Complex-Common-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/AssessedElement-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/AvailabilitySchedule-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/Contingency-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/EquipmentReliability-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/ImpactAssessmentMatrix-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/PowerSchedule-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/RemedialAction-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/RemedialActionSchedule-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/SecurityAnalysisResult-AP-Con-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/StateInstructionSchedule-AP-Con-Complex-SHACL.ttl> .
 
 
 

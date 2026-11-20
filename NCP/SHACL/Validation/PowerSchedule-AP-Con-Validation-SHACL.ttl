@@ -25,9 +25,9 @@ val:Ontology  rdf:type    owl:Ontology;
         dcat:keyword      "PS";
         dcat:theme        "constraint"@en .
 
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/NC-AP-Con-PrefixDeclaration-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/NC-AP-Con-ClassCount-Complex-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/NC-AP-Con-Complex-IdentifiedObjecStringLength-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/PowerSchedule-AP-Con-Simple-SHACL.ttl> .
-val:   owl:imports  <https://raw.githubusercontent.com/entsoe/application-profiles-library/main/NCP/SHACL/DatasetMetadata-AP-Con-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/NC-AP-Con-PrefixDeclaration-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/NC-AP-Con-ClassCount-Complex-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/NC-AP-Con-Complex-IdentifiedObjecStringLength-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/PowerSchedule-AP-Con-Simple-SHACL.ttl> .
+val:   owl:imports  <https://raw.githubusercontent.com/entsoe/NC-AP/main/NCP/SHACL/DatasetMetadata-AP-Con-SHACL.ttl> .
 
