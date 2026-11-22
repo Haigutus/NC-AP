@@ -31,6 +31,14 @@ com:Ontology  rdf:type         owl:Ontology ;
         dcat:landingPage      "https://www.entsoe.eu/digital/cim/cim-for-grid-models-exchange/" ;
         dcat:theme            "constraints"@en .
 
+cim:
+    a owl:Ontology ;
+    sh:declare [
+        a sh:PrefixDeclaration ;
+        sh:namespace "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ;
+        sh:prefix "rdf" ;
+    ] .
+
 com:CommonConstraints
         a           sh:PropertyGroup ;
         rdfs:label  "Common Constraints" ;
